@@ -25,8 +25,8 @@
   },
   {
     "url": "https://git.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "48fd875c"
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "url": "https://matrix.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "4c270ee6"
   },
   {
