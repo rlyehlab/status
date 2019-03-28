@@ -19,8 +19,8 @@
   },
   {
     "url": "https://webmail.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "9804b632"
   },
   {
