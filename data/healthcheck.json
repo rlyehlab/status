@@ -7,8 +7,8 @@
   },
   {
     "url": "https://wiki.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "166ed7e5"
   },
   {
