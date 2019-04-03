@@ -7,26 +7,26 @@
   },
   {
     "url": "https://wiki.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "166ed7e5"
   },
   {
     "url": "https://agenda.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "76dec832"
   },
   {
     "url": "https://webmail.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "9804b632"
   },
   {
     "url": "https://git.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "48fd875c"
   },
   {
@@ -37,26 +37,26 @@
   },
   {
     "url": "https://matrix.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "4c270ee6"
   },
   {
     "url": "https://pad.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "103bae91"
   },
   {
     "url": "https://antifa-glug.org",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "c7cbbb24"
   },
   {
     "url": "https://wiki.antifa-glug.org",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "90fef32a"
   },
   {
