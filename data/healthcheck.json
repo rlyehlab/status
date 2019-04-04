@@ -31,14 +31,14 @@
   },
   {
     "url": "https://talk.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "ce706262"
   },
   {
     "url": "https://matrix.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "4c270ee6"
   },
   {
