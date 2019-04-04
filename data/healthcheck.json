@@ -7,14 +7,14 @@
   },
   {
     "url": "https://wiki.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "166ed7e5"
   },
   {
     "url": "https://agenda.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "76dec832"
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "url": "https://pad.rlab.be",
-    "alive": false,
-    "ok": false,
+    "alive": true,
+    "ok": true,
     "id": "103bae91"
   },
   {
