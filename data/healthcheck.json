@@ -37,8 +37,8 @@
   },
   {
     "url": "https://matrix.rlab.be",
-    "alive": true,
-    "ok": true,
+    "alive": false,
+    "ok": false,
     "id": "4c270ee6"
   },
   {
