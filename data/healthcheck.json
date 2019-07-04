@@ -64,17 +64,5 @@
     "url": "https://blog.adm.rlab.be",
     "alive": true,
     "ok": true
-  },
-  {
-    "uid": "e2a00a75",
-    "url": "http://ThisIsJustADrill.rlab.be",
-    "alive": false,
-    "ok": false
-  },
-  {
-    "uid": "2afe1efc",
-    "url": "http://anotherone.bites.the.dust",
-    "alive": false,
-    "ok": false
   }
 ]
