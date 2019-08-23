@@ -14,8 +14,8 @@
   {
     "uid": "76dec832",
     "url": "https://agenda.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "9804b632",
