@@ -8,8 +8,8 @@
   {
     "uid": "166ed7e5",
     "url": "https://wiki.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "76dec832",
@@ -44,8 +44,8 @@
   {
     "uid": "103bae91",
     "url": "https://pad.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "c7cbbb24",
