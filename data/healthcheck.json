@@ -38,8 +38,8 @@
   {
     "uid": "4c270ee6",
     "url": "https://matrix.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "103bae91",
