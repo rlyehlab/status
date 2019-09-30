@@ -26,8 +26,8 @@
   {
     "uid": "48fd875c",
     "url": "https://git.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "ce706262",
@@ -38,8 +38,8 @@
   {
     "uid": "4c270ee6",
     "url": "https://matrix.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "103bae91",
