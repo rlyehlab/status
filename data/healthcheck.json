@@ -50,8 +50,8 @@
   {
     "uid": "c7cbbb24",
     "url": "https://antifa-glug.org",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "90fef32a",
