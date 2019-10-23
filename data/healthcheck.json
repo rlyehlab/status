@@ -56,8 +56,8 @@
   {
     "uid": "90fef32a",
     "url": "https://wiki.antifa-glug.org",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "8549cde2",
