@@ -2,8 +2,8 @@
   {
     "uid": "416ff55a",
     "url": "https://rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "166ed7e5",
@@ -62,7 +62,7 @@
   {
     "uid": "8549cde2",
     "url": "https://blog.adm.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   }
 ]
