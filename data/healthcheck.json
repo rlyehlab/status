@@ -20,8 +20,8 @@
   {
     "uid": "9804b632",
     "url": "https://webmail.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "48fd875c",
@@ -38,8 +38,8 @@
   {
     "uid": "4c270ee6",
     "url": "https://matrix.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "103bae91",
