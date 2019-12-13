@@ -14,8 +14,8 @@
   {
     "uid": "76dec832",
     "url": "https://agenda.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "9804b632",
@@ -50,8 +50,8 @@
   {
     "uid": "c7cbbb24",
     "url": "https://antifa-glug.org",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "90fef32a",
