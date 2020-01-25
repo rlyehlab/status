@@ -8,8 +8,8 @@
   {
     "uid": "76dec832",
     "url": "https://agenda.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "9804b632",
@@ -20,14 +20,14 @@
   {
     "uid": "48fd875c",
     "url": "https://git.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "ce706262",
     "url": "https://talk.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "4c270ee6",
