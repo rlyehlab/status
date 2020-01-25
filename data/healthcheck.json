@@ -14,8 +14,8 @@
   {
     "uid": "9804b632",
     "url": "https://webmail.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "48fd875c",
