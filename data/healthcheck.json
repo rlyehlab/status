@@ -38,8 +38,8 @@
   {
     "uid": "103bae91",
     "url": "https://pad.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "8549cde2",
