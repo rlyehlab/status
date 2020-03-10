@@ -26,8 +26,8 @@
   {
     "uid": "ce706262",
     "url": "https://talk.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "4c270ee6",
