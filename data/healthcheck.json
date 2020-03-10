@@ -20,8 +20,8 @@
   {
     "uid": "48fd875c",
     "url": "https://git.rlab.be",
-    "alive": false,
-    "ok": false
+    "alive": true,
+    "ok": true
   },
   {
     "uid": "ce706262",
