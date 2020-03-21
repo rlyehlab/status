@@ -14,26 +14,26 @@
   {
     "uid": "9804b632",
     "url": "https://webmail.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "48fd875c",
     "url": "https://git.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "ce706262",
     "url": "https://talk.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "4c270ee6",
     "url": "https://matrix.rlab.be",
-    "alive": true,
-    "ok": true
+    "alive": false,
+    "ok": false
   },
   {
     "uid": "103bae91",
